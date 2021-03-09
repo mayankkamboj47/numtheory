@@ -29,7 +29,3 @@ Functions for fast modular arithmetic
 
 Calculates base^pow % mod in about `log pow` time. Can also be used for values of pow for which base^pow exceeds the storage of the variable. 
 
-
-## utils.js
-
-- Probabilistic prime checker `probPrime(n)`
