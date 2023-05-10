@@ -7,11 +7,11 @@ List of programs :
 
 Erastothenes' sieving algorithm for finding primes upto a number n. 
 
-Also contains a probabilistic primality checker. 
+Also contains a probabilistic primality checker that works in O(1) time (compared to O(n) for the naive algorithm). 
 
 ### kuttak.js
 
-Euclid's extended algorithm for finding the bezout's coefficients of a number
+Euclid's extended algorithm for finding the bezout's coefficients of a number.
 
 ## random_gen.js
 
